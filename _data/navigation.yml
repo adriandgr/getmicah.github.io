@@ -1,8 +1,5 @@
 - title: about
   url: /me
 
-- title: github
-  url: https://github.com/adriandgr
-
-- title: twitter
-  url: https://twitter.com/ONZOart
+- title: contact
+  url: /form
