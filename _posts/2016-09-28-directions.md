@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New Look, Old Goals
+title: Untitled (You Won't Get Any More Details in a Bracketed Subtitle)
 ---
 
 **Disclaimer: This is going to be a rant.** 
