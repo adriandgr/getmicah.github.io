@@ -5,7 +5,8 @@ permalink: /blog/:title
 # My variables
 name: few blocks
 description: Intersections of art and technology
-google_verification: null
+google_verification: true
+google_verify: m0ZKYI4v5nRwtxec4YvMkyt8CjYQH7VmPxBraxoKXa8
 
 
 # File management
