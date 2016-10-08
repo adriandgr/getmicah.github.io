@@ -7,6 +7,8 @@ name: few blocks
 description: Intersections of art and technology
 google_verification: true
 google_verify: m0ZKYI4v5nRwtxec4YvMkyt8CjYQH7VmPxBraxoKXa8
+gems:
+  - jekyll-sitemap
 
 
 # File management
