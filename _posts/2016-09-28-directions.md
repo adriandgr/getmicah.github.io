@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Untitled (You Won't Get Any More Details in a Bracketed Subtitle)
+date: 2016-09-28 12:00:00 -0700
 ---
 
 ![rainbow][pink-floyd]

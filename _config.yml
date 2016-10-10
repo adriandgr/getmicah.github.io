@@ -6,6 +6,7 @@ permalink: /blog/:title
 name: few blocks
 url: http://fewblocks.ca
 description: Intersections of art and technology
+timezone: America/Vancouver
 google_verification: true
 google_verify: m0ZKYI4v5nRwtxec4YvMkyt8CjYQH7VmPxBraxoKXa8
 google_analytics: UA-67757719-2
