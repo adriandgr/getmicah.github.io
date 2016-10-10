@@ -4,16 +4,19 @@ sitemap: false
 ---
 
 <div class="header">
-    <h1>{{ site.name }}</h1>
+    <h1>unindexed</h1>
     <ul>
-        {% for item in site.data.navigation %}
         <li>
-            <a href="{{ item.url }}">{{ item.title }}</a>
-        </li>        
-        {% endfor %}
+            hush... this page is secret!
+        </li> 
+        <li>
+            <a href="{{ site.url }}">take me back</a>
+        </li>       
     </ul>
 </div>
 <div class="blog">
+<p><strong>Blimey!</strong> How did you get in here?! This is work in progress and hasn't been published to the site index. </p>
+<br/>
     <ul>
         {% for post in site.posts %}
         {% if post.private == true %}
