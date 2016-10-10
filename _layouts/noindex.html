@@ -7,18 +7,17 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
     <meta name="robots" content="noindex">
     {% if page.title %}
-    <title>{{ page.title }}</title>
-    {% else %}
-    <title>{{ site.name }}</title>
+    <title>{{ page.title }}</title>{% else %}
+    <title>{{ site.name }}</title>{% endif %}
+    <meta name="description" content="{{ site.description }}">{% if site.google_verification %}
+    <meta name="google-site-verification" content="{{ site.google_verify }}">
     {% endif %}
-    <meta name="description" content="{{ site.description }}">
     <link rel="icon" href="/assets/img/favicon.ico">
     <link href='https://fonts.googleapis.com/css?family=Inconsolata:400,700' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" type="text/css" href="/assets/css/main.css">
 </head>
 
 <body>
-
     <div class="wrapper">
         {{ content }}
     </div> {% if site.google_analytics %} 
