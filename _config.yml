@@ -1,6 +1,6 @@
 ---
-title: Web.Art
-timezone: America/Vancouver
+title: few blocks
+timezone: America/Los_Angeles
 collections:
   posts:
     title: Posts
@@ -26,7 +26,7 @@ exclude:
 - Gemfile.lock
 - CNAME
 sass:
-  style: :compressed
+  style: compressed
   sass_dir: _sass
 markdown: kramdown
 kramdown:
