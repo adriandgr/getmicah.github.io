@@ -1,31 +1,33 @@
-# Blog settings
-permalink: /blog/:title
-
-
-# My variables
+---
+title: Web.Art
+timezone: America/Vancouver
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+permalink: "/blog/:title"
 name: few blocks
 url: http://fewblocks.ca
 description: Intersections of art and technology
-timezone: America/Vancouver
 google_verification: true
 google_verify: m0ZKYI4v5nRwtxec4YvMkyt8CjYQH7VmPxBraxoKXa8
 google_analytics: UA-67757719-2
 gems:
-  - jekyll-sitemap
-
-
-# File management
-include: [".htaccess"]
-exclude: ["README.md", "LICENSE", "Gemfile", "Gemfile.lock", "CNAME"]
-
-
-# Sass
+- jekyll-sitemap
+include:
+- ".htaccess"
+exclude:
+- README.md
+- LICENSE
+- Gemfile
+- Gemfile.lock
+- CNAME
 sass:
   style: :compressed
   sass_dir: _sass
-
-
-# Markdown
 markdown: kramdown
 kramdown:
   input: GFM
