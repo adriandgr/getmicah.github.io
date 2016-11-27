@@ -7,6 +7,13 @@ categories:
 tags:
 - tag1
 - tag2
+sdf: eedd
+eed:
+- dg
+- fed
+hey:
+  coo: cho
+  che: guevara
 layout: post
 ---
 
