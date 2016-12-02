@@ -4,7 +4,7 @@ date: 2016-09-28 12:00:00 -07:00
 layout: post
 ---
 
-![rainbow](/api/v2/sites/5837cb9d14cba55c2d6592c6/source/_uploads/dark-side-moon.jpg?download "Dark Side of the Moon. source: adamsultanov.com")
+![rainbow](/uploads/dark-side-moon.jpg?download "Dark Side of the Moon. source: adamsultanov.com")
 
 **Disclaimer: This is going to be a rant.**
 
