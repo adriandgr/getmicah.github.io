@@ -1,6 +1,7 @@
 ---
 title: For Machine Use Only
 date: 2016-12-02 10:37:00 -08:00
+layout: post
 ---
 
 Abbas Akhavan
