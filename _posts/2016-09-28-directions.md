@@ -1,6 +1,6 @@
 ---
 title: Untitled (You Won't Get Any More Details in a Bracketed Subtitle)
-date: 2016-09-28 12:00:00 -07:00
+date: 2016-09-28 12:00:00 -08:00
 layout: post
 ---
 
