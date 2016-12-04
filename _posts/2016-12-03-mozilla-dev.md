@@ -5,3 +5,22 @@ layout: post
 ---
 
 Progressive enhancement
+
+Feature queries @supports (hacks blog)
+
+viewport units
+
+there is no fold...  now we can control the flow
+
+Object fit
+
+multicolumn 
+flexbox
+CSS grid Layout
+
+Flexboxdefense.com
+flexboxfroggy.com
+
+base experience
+
+https://youtu.be/5Z7lSSMwRgo
