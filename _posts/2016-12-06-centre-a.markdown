@@ -1,6 +1,7 @@
 ---
 title: Centre A
 date: 2016-12-06 14:34:00 -08:00
+layout: post
 ---
 
 > Centre A has worked with countless artists including Yoko Ono, Ho Tam, Vanessa Kwan, Young Hae Chang Heavy Industries, Hong Kong Exile, Khan Lee and Subodh Gupta.
