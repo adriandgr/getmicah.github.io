@@ -7,4 +7,4 @@ layout: post
 - Generic functions & polymorphism
 - Higher order functions
 - Object composition
-- pure **render function** 
+- pure **render function** (returns the representation of the UI based on the available data at that point in time)
