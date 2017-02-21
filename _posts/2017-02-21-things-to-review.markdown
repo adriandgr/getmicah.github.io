@@ -18,3 +18,4 @@ layout: post
 
 ## tools/useful docs for devs
 - [HTTP Status Codes](https://httpstatuses.com/)
+- [Getting started with Webstorm](https://www.jetbrains.com/help/webstorm/2016.3/quick-start-guide.html)
