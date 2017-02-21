@@ -8,9 +8,9 @@ layout: post
 - box-model >> border-box (css)
 - definition lists (html)
 - [positioning content](http://learn.shayhowe.com/html-css/positioning-content/#floats) (with floats)
-- [more floats](https://css-tricks.com/all-about-floats/)
+- [more floats](https://css-tricks.com/all-about-floats/) (css)
 - [DOM events](https://www.smashingmagazine.com/2013/11/an-introduction-to-dom-events/)
-- [jQuery tutorial](http://try.jquery.com/)
+- [jQuery tutorial](http://try.jquery.com/) (js)
 
 ## theory/research
 - [fitts' law](https://en.wikipedia.org/wiki/Fitts's_law) on predictive model of human movement.
