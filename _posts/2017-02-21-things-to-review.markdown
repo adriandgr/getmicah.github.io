@@ -8,5 +8,5 @@ layout: post
 - box-model >> border-box (css)
 - definition lists (html)
 
-## theory/reseacrch
+## theory/research
 - [fitts' law](https://en.wikipedia.org/wiki/Fitts's_law)
