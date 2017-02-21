@@ -11,10 +11,11 @@ layout: post
 - [more floats](https://css-tricks.com/all-about-floats/) (css)
 - [DOM events](https://www.smashingmagazine.com/2013/11/an-introduction-to-dom-events/)
 - [jQuery tutorial](http://try.jquery.com/) (js)
+- [focus](https://developer.mozilla.org/en-US/docs/Web/Events/focus) and [blur](https://developer.mozilla.org/en-US/docs/Web/Events/blur) events
 
 ## theory/research
 - [fitts' law](https://en.wikipedia.org/wiki/Fitts's_law) on predictive model of human movement.
-- [ES6 let and const declatations](https://strongloop.com/strongblog/es6-variable-declarations/)
+- [ES6 let and const declarations](https://strongloop.com/strongblog/es6-variable-declarations/)
 
 ## tools/useful docs for devs
 - [HTTP Status Codes](https://httpstatuses.com/)
