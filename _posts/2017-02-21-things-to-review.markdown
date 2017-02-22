@@ -16,6 +16,8 @@ layout: post
 ## theory/research
 - [fitts' law](https://en.wikipedia.org/wiki/Fitts's_law) on predictive model of human movement.
 - [ES6 let and const declarations](https://strongloop.com/strongblog/es6-variable-declarations/)
+- [CORS](https://developer.mozilla.org/en-US/docs/Web/HTTP/Access_control_CORS)
+- JSONP (takes more research than CORS)
 
 ## tools/useful docs for devs
 - [HTTP Status Codes](https://httpstatuses.com/)
