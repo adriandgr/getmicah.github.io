@@ -18,6 +18,8 @@ layout: post
 - [ES6 let and const declarations](https://strongloop.com/strongblog/es6-variable-declarations/)
 - [CORS](https://developer.mozilla.org/en-US/docs/Web/HTTP/Access_control_CORS)
 - [JSONP](https://sacha.me/articles/jsonp-demystified/) (takes more research than CORS)
+- read more about promises .then() .catch() what are the implications of the new promises created by these methods.
+- consider looking into fetch api which replaces xmlHTTP, uses promises natively. Joel has written a blog post on promises.
 
 ## tools/useful docs for devs
 - [HTTP Status Codes](https://httpstatuses.com/)
