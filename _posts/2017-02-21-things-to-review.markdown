@@ -5,6 +5,7 @@ layout: post
 ---
 
 ## basic features
+- review Ajax!
 - box-model >> border-box (css)
 - definition lists (html)
 - [positioning content](http://learn.shayhowe.com/html-css/positioning-content/#floats) (with floats)
