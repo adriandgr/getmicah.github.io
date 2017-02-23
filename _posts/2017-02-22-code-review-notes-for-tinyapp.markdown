@@ -19,6 +19,7 @@ Notes given by Dave during code review:
 app.set is a configuration
 - Good job on using `req.session.nowInMinutes`. Now go and research about why it's useful (session fixation attacks).
 - emails **may not** be validated with regular expressions.
+  
   - google: falsehoods programmers believe...
   - curated lists of falsehoods
   - email specification doc: RFC 822
@@ -30,27 +31,12 @@ app.set is a configuration
 - Reduce you [cyclomatic complexities](https://en.wikipedia.org/wiki/Cyclomatic_complexity)... use `return` statements as guards.
 - Religiously end line with every `{` and start line with `}`
 - Watch out for using root level routes such as `GET /:username`. What if somebody's username is `urls`? route conflict with `GET /urls`. **Lesson:** users are intentionally or accidentally malicious. Guard for every edge case. 
-
-bithound.... static code analysis
-
-sonarqube, code quality tool
-
-first, check if exists.
-if it doesn't exist 404
-ntp drift
-
-
-should only delete if user is owner
-
-401 on POST /urls
-
-keep them at the top (the guards)
-
-avoid for ( in loops)
-
-always test for the true value.
-
-
-
-
-check valid scheme such as ftp
+- look into **static code analysis** [bitHound](https://www.bithound.io/) or [sonarqube](https://www.sonarqube.org/) (code quality tools)
+- Use `if` statements to check for truthy values and not the reverse, which increases logic complexity
+- if it doesn't exist `404`. Do not treat unauthenticated users differently
+- Not so important, but eventually look into ntp drift for dealing with time discrepancies in the vagrant vm
+- **critical feature missing!** `delete /urls/:id` should only delete url if user is owner. 
+- `401` on `POST /urls`
+- keep guards at the top
+- avoid `for... in` loops
+- check valid scheme such as ftp
