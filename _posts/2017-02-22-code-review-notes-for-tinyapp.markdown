@@ -8,7 +8,7 @@ layout: post
 
 Code review for tinyApp assignment.  
 
-Notes given by Dave during code review:
+## Notes given by Dave during code review:
 - use `temp/` directory to store local files instead listing them individually in the `.gitignore` file
 - ensure there is a new line character at the end of all code files
 - `require('dotenv')` as early as possible
@@ -40,3 +40,4 @@ app.set is a configuration
 - keep guards at the top
 - avoid `for... in` loops
 - check valid scheme such as ftp
+- avoid business logic on the view side. Server should handle this.
