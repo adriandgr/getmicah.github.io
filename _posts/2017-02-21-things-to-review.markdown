@@ -30,3 +30,4 @@ layout: post
 
 ## extra stuff
 - [chosen](https://github.com/harvesthq/chosen)
+- nice signup page: https://slides.com/users/sign_up?plan=free
