@@ -26,3 +26,6 @@ layout: post
 - [HTTP Status Codes](https://httpstatuses.com/)
 - [fillmurray](http://www.fillmurray.com/)
 - [Getting started with Webstorm](https://www.jetbrains.com/help/webstorm/2016.3/quick-start-guide.html)
+
+## extra stuff
+- [chosen](https://github.com/harvesthq/chosen)
