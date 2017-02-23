@@ -21,6 +21,7 @@ layout: post
 - [JSONP](https://sacha.me/articles/jsonp-demystified/) (takes more research than CORS)
 - read more about promises .then() .catch() what are the implications of the new promises created by these methods.
 - consider looking into fetch api which replaces xmlHTTP, uses promises natively. Joel has written a blog post on promises.
+- slurping .toarray
 
 ## tools/useful docs for devs
 - [HTTP Status Codes](https://httpstatuses.com/)
