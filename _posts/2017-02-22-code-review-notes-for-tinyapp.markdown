@@ -28,10 +28,8 @@ app.set is a configuration
 - don't forget to `do { } while` when applicable. DRY code!
 - `res.locals` in `app.use` read more about them. DRY code!
 - Reduce you [cyclomatic complexities](https://en.wikipedia.org/wiki/Cyclomatic_complexity)... use `return` statements as guards.
-
-opening cur
-
-what is somebody's username is urls....
+- Religiously end line with every `{` and start line with `}`
+- Watch out for using root level routes such as `GET /:username`. What if somebody's username is `urls`? route conflict with `GET /urls`. **Lesson:** users are intentionally or accidentally malicious. Guard for every edge case. 
 
 bithound.... static code analysis
 
