@@ -4,6 +4,8 @@ date: 2017-02-22 16:22:00 -08:00
 layout: post
 ---
 
+![kortosApp](/uploads/kortos.jpg)
+
 Code review for tinyApp assignment.  
 
 temp folder for git ignore files
