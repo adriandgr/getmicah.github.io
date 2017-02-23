@@ -4,7 +4,7 @@ date: 2017-02-22 16:22:00 -08:00
 layout: post
 ---
 
-<img src="/uploads/kortos.jpg" width="600px">
+<a href="/uploads/kortos.jpg"><img src="/uploads/kortos.jpg" width="600px"></a>
 
 Code review for tinyApp assignment.  
 
