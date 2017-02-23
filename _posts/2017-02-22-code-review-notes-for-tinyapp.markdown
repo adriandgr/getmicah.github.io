@@ -8,14 +8,13 @@ layout: post
 
 Code review for tinyApp assignment.  
 
-temp folder for git ignore files
-add a new line character at the end of the file. 
-
-move into the 
-
-moment.js
-
-call dotenv as early as possible
+Notes given by Dave during code review:
+- use temp/ directory to store local files instead listing them individually in the .gitignore file
+- ensure there is a new line character at the end of all code files
+- require dotenv as early as possible
+- move dev-dependencies to regular dependencies or guard them while in production mode
+- [moment.js](https://momentjs.com/) as an alternative to dateformat
+-
 
 
 app.listen.. server.address (reports the address)
