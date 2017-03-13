@@ -14,6 +14,7 @@ layout: post
 - [jQuery tutorial](http://try.jquery.com/) (js)
 - [focus](https://developer.mozilla.org/en-US/docs/Web/Events/focus) and [blur](https://developer.mozilla.org/en-US/docs/Web/Events/blur) events
 
+
 ## theory/research
 - [fitts' law](https://en.wikipedia.org/wiki/Fitts's_law) on predictive model of human movement.
 - [ES6 let and const declarations](https://strongloop.com/strongblog/es6-variable-declarations/)
@@ -22,6 +23,10 @@ layout: post
 - read more about promises .then() .catch() what are the implications of the new promises created by these methods.
 - consider looking into fetch api which replaces xmlHTTP, uses promises natively. Joel has written a blog post on promises.
 - slurping .toarray
+- Generic functions & polymorphism
+- Higher order functions
+- Object composition
+- pure **render function** (returns the representation of the UI based on the available data at that point in time)
 
 ## tools/useful docs for devs
 - [HTTP Status Codes](https://httpstatuses.com/)
