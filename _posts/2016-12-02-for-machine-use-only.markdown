@@ -11,7 +11,7 @@ Research the following artists
 Abbas Akhavan • 
 Kristen Alvanson • 
 Julieta Aranda • 
-Diann Bauer • 
+Diann Bauer <br>
 Amanda Beech • 
 Kevin Bright • 
 Eli Bornowsky • 
