@@ -1,5 +1,6 @@
 ---
+title: contact
 layout: contact
 ---
 
-contact form
+<script type="text/javascript" src="https://form.jotform.ca/jsform/70711613281246"></script>
