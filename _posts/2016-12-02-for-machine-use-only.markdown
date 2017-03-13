@@ -15,30 +15,30 @@ Diann Bauer <br>
 Amanda Beech • 
 Kevin Bright • 
 Eli Bornowsky • 
-Christine Corlett • 
+Christine Corlett <br> 
 Ignacio Corral • 
 Manuel Correa • 
 Jake Dibeler • 
-Samuel Forsythe • 
+Samuel Forsythe <br> 
 Aaron Gemmill • 
 Johann Groebner • 
 Antonia Hirsch • 
-Juliet Jacobson • 
+Juliet Jacobson <br>
 Gareth James • 
 Khaled Jarrar • 
 Philip King • 
-Attila Richard Lukacs • 
+Attila Richard Lukacs <br> 
 Tom McGlynn • 
 Christina McPhee • 
 Mani Nilchiani • 
-Rebecca Norton • 
+Rebecca Norton <br>
 Rebecca Quaytman • 
 Raha Raissnia • 
 Patricia Reed • 
-Brian Rogers • 
+Brian Rogers <br>
 Nooshin Rostami • 
 Nicolas Sassoon • 
 Charles Stankievech • 
-Joni Spigler • 
+Joni Spigler <br> 
 Keith Tilford • 
-Paul Wong • 
+Paul Wong 
