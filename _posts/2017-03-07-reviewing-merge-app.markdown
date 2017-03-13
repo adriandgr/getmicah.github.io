@@ -4,6 +4,9 @@ date: 2017-03-07 02:17:00 -08:00
 layout: post
 ---
 
+Mock-up designs for Merge App
+<a href="/uploads/mockups.jpg"><img src="/uploads/mockups.jpg" width="600px"></a>
+
 **Code review conducted by Vaz**
 
 "Merge" decision-making app by Adrian Diaz, Donald Geddes, and Richard Hsieh
