@@ -4,7 +4,7 @@ date: 2017-03-07 02:17:00 -08:00
 layout: post
 ---
 
-Mock-up designs for Merge App
+Mock-up designs for Merge App:
 <a href="/uploads/mockups.jpg"><img src="/uploads/mockups.jpg" width="600px"></a>
 
 **Code review conducted by Vaz**
@@ -36,3 +36,7 @@ Code review notes:
 - HTML/EJS: - email template looked good (proper email-friendly HTML) - main file was static HTML, client is a SPA - I want to say this is a bit "ambitious" with just jQuery
 
 - Client JS: - Overall I think you did a great job with the frontend - Though, as you saw the frontend started to get more and more complex... it really is an "app" of its own and ends up needing to be structured like one - jQuery doesn't give you a lot in this regard (although it has plugins, or jquery-ui widgets, which can help) - really though, there's a reason I compared using just jQuery to build an SPA to using `http.createServer` instead of express to build a server. (Also, I know this was the stack we gave you!) - I think your experience doing the frontend "the hard way" will probably add to your appreciation of frontend frameworks like React :)
+
+
+<a href="/uploads/mergeapp.png"><img src="/uploads/mergeapp.png" width="600px"></a>
+**Screenshot of e-mail sent by Merge App**
