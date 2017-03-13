@@ -24,5 +24,3 @@ Flexboxdefense.com
 flexboxfroggy.com
 
 base experience
-
-https://youtu.be/5Z7lSSMwRgo
