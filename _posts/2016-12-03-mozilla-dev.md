@@ -4,7 +4,7 @@ date: 2016-12-03 09:30:00 -08:00
 layout: post
 ---
 
-<a href="/uploads/css.jpg"><img src="/uploads/kortos.jpg" width="600px"></a>
+<a href="/uploads/css.jpg"><img src="/uploads/css.jpg" width="600px"></a>
 
 Progressive enhancement
 
