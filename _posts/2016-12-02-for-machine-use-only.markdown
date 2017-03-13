@@ -6,37 +6,39 @@ layout: post
 
 ![machineuse.jpg](/uploads/machineuse.jpg)
 
-Abbas Akhavan
-Kristen Alvanson
-Julieta Aranda
-Diann Bauer
-Amanda Beech
-Kevin Bright
-Eli Bornowsky
-Christine Corlett
-Ignacio Corral
-Manuel Correa
-Jake Dibeler 
-Samuel Forsythe
-Aaron Gemmill
-Johann Groebner
-Antonia Hirsch
-Juliet Jacobson
-Gareth James
-Khaled Jarrar
-Philip King
-Attila Richard Lukacs
-Tom McGlynn
-Christina McPhee
-Mani Nilchiani
-Rebecca Norton
-Rebecca Quaytman
-Raha Raissnia
-Patricia Reed
-Brian Rogers
-Nooshin Rostami
-Nicolas Sassoon
-Charles Stankievech
-Joni Spigler
-Keith Tilford
-Paul Wong
+Research the following artists
+
+Abbas Akhavan • 
+Kristen Alvanson • 
+Julieta Aranda • 
+Diann Bauer • 
+Amanda Beech • 
+Kevin Bright • 
+Eli Bornowsky • 
+Christine Corlett • 
+Ignacio Corral • 
+Manuel Correa • 
+Jake Dibeler • 
+Samuel Forsythe • 
+Aaron Gemmill • 
+Johann Groebner • 
+Antonia Hirsch • 
+Juliet Jacobson • 
+Gareth James • 
+Khaled Jarrar • 
+Philip King • 
+Attila Richard Lukacs • 
+Tom McGlynn • 
+Christina McPhee • 
+Mani Nilchiani • 
+Rebecca Norton • 
+Rebecca Quaytman • 
+Raha Raissnia • 
+Patricia Reed • 
+Brian Rogers • 
+Nooshin Rostami • 
+Nicolas Sassoon • 
+Charles Stankievech • 
+Joni Spigler • 
+Keith Tilford • 
+Paul Wong • 
