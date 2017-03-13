@@ -4,8 +4,8 @@ date: 2017-03-07 02:17:00 -08:00
 layout: post
 ---
 
-Mock-up designs for Merge App:
 <a href="/uploads/mockups.jpg"><img src="/uploads/mockups.jpg" width="600px"></a>
+**Mock-up designs for Merge App:**
 
 **Code review conducted by Vaz**
 
