@@ -4,6 +4,8 @@ date: 2016-12-02 10:37:00 -08:00
 layout: post
 ---
 
+![machineuse.jpg](/uploads/machineuse.jpg)
+
 Abbas Akhavan
 Kristen Alvanson
 Julieta Aranda
