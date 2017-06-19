@@ -10,7 +10,7 @@ Working on this side project for an art school friend. He's looking to update hi
 
 I combined an existing Tumblr CSS theme which he liked and transformed it into a Jekyll template. [Source code](https://github.com/adriandgr/ce-portfolio) and site content is hosted and served using GitHub pages. Given that he is not comfortable enough editing plaintext documents, I also paired it with Siteleaf's fantastic CMS platform that automatically pushes repo commits to GitHub using an intuitive visual interphase.
 
----html
+```html
 <!-- _includes/sidebar -->
     <div id="sidebar" class="has_description">
       <a href="/" id="sidebar_title" title="Home">
@@ -24,4 +24,4 @@ I combined an existing Tumblr CSS theme which he liked and transformed it into a
         <li><a href="/cv">CV</a></li>
       </ul>
     </div>
----
+```
