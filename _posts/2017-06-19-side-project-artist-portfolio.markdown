@@ -6,17 +6,17 @@ layout: post
 
 <img style='height: 100%; width: 100%; object-fit: contain' src='/uploads/Screenshot%202017-06-19%2010.37.35.png'/> 
 
-Working on this side project for an art school friend. He's looking to update his unruly wordpress site into something simpler and easier to manage. 
+I've been working on a side project for an art school friend. He's looking to update his unruly wordpress site into something that's sleeker and easier to manage. 
 
-I combined an existing Tumblr CSS theme which he liked and transformed it into a Jekyll template. [Source code](https://github.com/adriandgr/ce-portfolio) and site content is hosted and served using GitHub pages. Given that he is not comfortable enough editing plaintext documents, I also paired it with Siteleaf's fantastic CMS platform that automatically pushes repo commits to GitHub using an intuitive visual interphase.
+I modified an existing Tumblr CSS theme which he liked and transformed it into a Jekyll template. [Source code](https://github.com/adriandgr/ce-portfolio) and site content is hosted and served using GitHub pages. Given that he is not comfortable enough editing plain text documents, I also paired it with Siteleaf's fantastic CMS platform that automatically pushes repo commits to GitHub using an intuitive visual interphase.
 
-While preparing this project there were only two main site components that are interesting to examine.
+This project was relatively quick to set up and there are really only two main site components that are interesting to examine.
 
 ## Self Generating Navigation
 
-One of the main goals of this project was for it to be as low maintenance as possible while remaining flexible and configurable. This meant taking note of the available editing features of Siteleaf and taking advantage of this in the best way possible. In addition to adding a static page or post, the frontend interphase allows users to generate new Jekyll collections with the click of a button. 
+One of the main goals of this project was for it to be as low maintenance as possible while remaining flexible and configurable. This meant taking note of the available editing features of Siteleaf using them in the best way possible. Siteleaf's core actions are focused on authoring new content. This is evident in their choice not to provide any mechanism to edit or update any site template using this visual platform. 
 
-The site navigation takes advantage of this feature by looping over all collections and excluding two built-in collections that did not need to be displayed `posts` and `uploads` (used by Siteleaf to store static assets)
+In addition to adding a static page or post, the web app allows users to generate new Jekyll collections with the click of a button. The site navigation takes advantage of this feature by looping over all collections and excluding two auto-generated collections that don't need to be displayed `posts` and `uploads` (used by Siteleaf to store static assets)
 
 
 
