@@ -49,11 +49,11 @@ This allows the site owner to add new artwork categories (or collections), edit 
 
 The other component that required some minor changes to the "Jekyll way" of doing things was the list of artworks listed under every category.
 
-```
+```html
 ---
 layout: default
 ---
-
+{% raw %}
 <div id="posts">
   {% assign category = page.collection %}
   <h2>{{ category | capitalize }}</h2>
@@ -65,5 +65,5 @@ layout: default
   {% endunless%}
   {% endfor %}
   </ul>
-</div>
+</div>{% endraw %}
 ```
