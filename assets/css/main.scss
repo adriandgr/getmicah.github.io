@@ -3,6 +3,8 @@
 
 @import "reset";
 @import "config";
+@import "pygments-github";
+
 
 body {
 	color: $color-black;
@@ -55,7 +57,7 @@ blockquote {
   	margin-left: 50px;
   	padding-left: 15px;
   	border-left: 3px solid #ccc;
-} 
+}
 
 
 .wrapper {
@@ -114,7 +116,7 @@ blockquote {
 	padding-bottom: 30px;
 	&__back {
 		a {
-			
+
 		}
 	}
 	&__title {
@@ -211,11 +213,11 @@ blockquote {
 			margin: 10px;
 			margin-bottom: 15px;
 			padding: 10px;
-			line-height: 1.5;
+			line-height: 1.25;
 			border-radius: 3px;
-			background: $color-black;
+			background: $light-grey;
 			code {
-				color: $color-code;
+				// color: $color-code;
 				background: none;
 			}
 		}
@@ -249,3 +251,5 @@ blockquote {
 		}
 	}
 }
+
+
