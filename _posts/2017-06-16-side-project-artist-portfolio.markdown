@@ -69,3 +69,5 @@ layout: default
 ```
 
 With this, the goal of creating a simple artist portfolio that may be maintained entirely with Siteleaf's account is accomplished.
+
+Live portfolio at [http://casselliott.com](http://casselliott.com)
