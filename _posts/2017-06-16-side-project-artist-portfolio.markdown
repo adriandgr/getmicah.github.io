@@ -1,6 +1,6 @@
 ---
 title: 'Side Project: Artist Portfolio'
-date: 2017-06-19 07:35:00 -07:00
+date: 2017-06-16 07:35:00 -07:00
 layout: post
 ---
 
