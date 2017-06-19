@@ -47,7 +47,7 @@ This allows the site owner to add new artwork categories (or collections), edit 
 
 ## Populating a Category Index
 
-The other component that required some minor changes to the "Jekyll way" of doing things was the list of artworks listed under every category.
+The other component that required some minor changes to the standard "Jekyll way" of doing things was the list of artworks listed under every category. The only thing to note is that instead of looping over pages, the template must first capture the name of the corresponding collection and assign it to a variable. The last thing to do is exclude the index page itself so that it doesn't list itself.
 
 ```html
 ---
@@ -67,3 +67,5 @@ layout: default
   </ul>
 </div>{% endraw %}
 ```
+
+With this, the goal of creating a simple artist portfolio that may be maintained entirely with Siteleaf's account is accomplished.
