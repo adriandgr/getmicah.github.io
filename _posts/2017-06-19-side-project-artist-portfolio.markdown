@@ -42,3 +42,28 @@ In addition to adding a static page or post, the web app allows users to generat
   </ul>
 </div>{% endraw %}
 ```
+
+This allows the site owner to add new artwork categories (or collections), edit their name, or remove them completely without having to worry about updating the site navigation. The last two navigation links are hard-coded links to a contact page and a CV, which are unlikely to change. 
+
+## Populating a Category Index
+
+The other component that required some minor changes to the "Jekyll way" of doing things was the list of artworks listed under every category.
+
+```
+---
+layout: default
+---
+
+<div id="posts">
+  {% assign category = page.collection %}
+  <h2>{{ category | capitalize }}</h2>
+
+  <ul>
+  {% for artwork in site.[category] %}
+  {% unless artwork.title == 'Index' %}
+    <li><a href="{{artwork.url}}">{{ artwork.title }}</a></li>
+  {% endunless%}
+  {% endfor %}
+  </ul>
+</div>
+```
