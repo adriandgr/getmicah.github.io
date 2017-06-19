@@ -1,10 +1,10 @@
 ---
-title: 'Side Project: - Artist Portfolio'
+title: 'Side Project: Artist Portfolio'
 date: 2017-06-19 07:35:00 -07:00
 layout: post
 ---
 
-
+![Screenshot 2017-06-19 10.37.35.png](/uploads/Screenshot%202017-06-19%2010.37.35.png)
 
 Working on this side project for an art school friend. He's looking to update his unruly wordpress site into something simpler and easier to manage. 
 
