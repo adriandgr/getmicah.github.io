@@ -21,19 +21,23 @@ The site navigation takes advantage of this feature by looping over all collecti
 
 
 ```html
-{% raw %}
-<!-- _includes/sidebar -->
+{% raw %}<!-- _includes/sidebar -->
 <div id="sidebar" class="has_description">
   <a href="/" id="sidebar_title" title="Home">
     <h1>{{ site.title }}</h1>
   </a>
 
   <h6>*</h6>
-  <ul>{% for collection in site.collections %}{% if collection.label == 'posts' %}{% elsif collection.label == 'uploads' %}{% else %}
-    <li><a href="/{{ collection.label }}">{{ collection.label | capitalize }}</a></li>{% endif %}{% endfor %}
+  <ul>{% for collection in site.collections %}
+      {% if collection.label == 'posts' %} 
+      {% elsif collection.label == 'uploads' %}
+      {% else %}
+        <li><a href="/{{ collection.label }}">
+        {{ collection.label | capitalize }}</a></li>
+      {% endif %}
+    {% endfor %}
     <li><a href="/contact">Contact</a></li>
     <li><a href="/cv">CV</a></li>
   </ul>
-</div>
-{% endraw %}
+</div>{% endraw %}
 ```
