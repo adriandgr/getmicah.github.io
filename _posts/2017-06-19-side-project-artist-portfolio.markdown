@@ -21,6 +21,7 @@ The site navigation takes advantage of this feature by looping over all collecti
 
 
 ```html
+{% raw %}
 <!-- _includes/sidebar -->
 <div id="sidebar" class="has_description">
   <a href="/" id="sidebar_title" title="Home">
@@ -34,4 +35,5 @@ The site navigation takes advantage of this feature by looping over all collecti
     <li><a href="/cv">CV</a></li>
   </ul>
 </div>
+{% endraw %}
 ```
