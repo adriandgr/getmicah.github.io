@@ -28,7 +28,8 @@ The site navigation takes advantage of this feature by looping over all collecti
   </a>
 
   <h6>*</h6>
-  <ul>{% for collection in site.collections %}
+  <ul>
+    {% for collection in site.collections %}
       {% if collection.label == 'posts' %} 
       {% elsif collection.label == 'uploads' %}
       {% else %}
