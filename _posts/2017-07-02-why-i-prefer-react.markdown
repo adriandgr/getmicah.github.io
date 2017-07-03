@@ -11,7 +11,13 @@ Slide from [Rethinking Best Practices](https://www.slideshare.net/floydophone/re
 
 During my web dev bootcamp, I heard lots of people tell me that learning web frameworks is much harder than learning a programming language. Once you know the basics of a particular language, you can pick up a new one in about a week, give or take... Your main emphasis is learning language specific syntax and implementations, allowing you to leverage most of the knowledge you've already accrued from previous languages. This notion was reinforced with resources such as [Learn X in Y](https://learnxinyminutes.com/), a site where you can easily digest the most common features of a variety of languages.
 
-The same thing may not be said about frameworks. If picking up a new language usually takes a week, then getting comfortable with the basics of a framework may take up to a month or more (so I heard). I couldn't really believe these statements. After all, a language should, in theory, be a much more complex beast than the framework itself. As a growing developer, I've tried not to get too comfortable with the same tools I've already learned and set out to explore various frameworks. By doing this, I've discovered how true these previous statements have been.
+The same thing may not be said about frameworks. If picking up a new language usually takes a week, then getting comfortable with the basics of a framework may take up to a month or more (so I heard). 
+
+*I couldn't really believe these statements... *
+
+After all, a language should *in theory* be a much more complex beast than the framework itself. Right? As a growing developer, I've tried not to get too comfortable with the same tools I've already learned and set out to explore various frameworks and tools. By doing this, I've discovered how true these previous statements have been in my experience.
+
+![giphy-downsized.gif](/uploads/giphy-downsized.gif)
 
 ## Angular, An Actual Framework
 
