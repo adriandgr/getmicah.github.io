@@ -13,9 +13,9 @@ During my web dev bootcamp, I heard lots of people tell me that learning web fra
 
 The same thing may not be said about frameworks. If picking up a new language usually takes a week, then getting comfortable with the basics of a framework may take up to a month or more (so I heard). 
 
-![giphy-downsized.gif](/uploads/giphy-downsized.gif)
-
 <strong>I couldn't really believe these statements...</strong>
+
+![giphy-downsized.gif](/uploads/giphy-downsized.gif)
 
 After all, a language should *in theory* be a much more complex beast than the framework itself. Right? As a growing developer, I've tried not to get too comfortable with the same tools I've already learned and set out to explore various frameworks and tools. By doing this, I've discovered how true these previous statements have been in my experience.
 
