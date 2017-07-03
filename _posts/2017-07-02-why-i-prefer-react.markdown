@@ -19,8 +19,6 @@ The same thing may not be said about frameworks. If picking up a new language us
 
 After all, a language should *in theory* be a much more complex beast than the framework itself. Right? As a growing developer, I've tried not to get too comfortable with the same tools I've already learned and set out to explore various frameworks and tools. By doing this, I've discovered how true these previous statements have been in my experience.
 
-
-
 ## Angular, An Actual Framework
 
 One of the frameworks that I kept going back to and then getting turned off by was Angular. I spent a lot of time on their docs, reading through 'Up and Running' sections, only getting frustrated by the snail speeds of the experience. At the time I just wrote it off as lack of experience, which is to be expected, however, I also felt like there was more to it. I just didn't know what it was. My only reaction was to move on to something else and come back to it when I felt I had gained that elusive experience. 
