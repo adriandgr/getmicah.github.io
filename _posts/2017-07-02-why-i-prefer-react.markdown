@@ -27,5 +27,10 @@ It was only when I stumbled upon the set of slides referenced above that I start
 
 I'm not closing myself off to Angular forever, I'm just happy I have a better understanding of the reasons why for now I much rather invest my time with React.  
 
+## Kindred Spirits
+
 <blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr">after <a href="https://twitter.com/reactjs">@reactjs</a> can&#39;t even look at template based frameworks. It solves everything. Fast, composable and easy to use.</p>&mdash; Tim Voronov (@ziflex) <a href="https://twitter.com/ziflex/status/820806834449711105">January 16, 2017</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">This list of <a href="https://twitter.com/hashtag/reactjs?src=hash">#reactjs</a> patterns is helpful for structuring components in a clean and composable way from the start.<a href="https://t.co/6trWW1aFSt">https://t.co/6trWW1aFSt</a></p>&mdash; Marc Löhe (@bfncs) <a href="https://twitter.com/bfncs/status/770873280651730944">August 31, 2016</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">&quot;The philosophy of small, composable, single-purpose tools never goes out of style.&quot; <a href="https://t.co/33JOo3SVlO">https://t.co/33JOo3SVlO</a> <a href="https://twitter.com/hashtag/reactjs?src=hash">#reactjs</a> <a href="https://twitter.com/hashtag/javascript?src=hash">#javascript</a></p>&mdash; Eric Nograles (@grales) <a href="https://twitter.com/grales/status/684743816839036928">January 6, 2016</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="und" dir="ltr">❤️ composable UI components <a href="https://twitter.com/hashtag/reactjs?src=hash">#reactjs</a></p>&mdash; Dimitris Karagiannis (@MitchKarajohn) <a href="https://twitter.com/MitchKarajohn/status/868092720170115073">May 26, 2017</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
