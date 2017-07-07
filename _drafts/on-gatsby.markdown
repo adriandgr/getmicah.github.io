@@ -1,5 +1,5 @@
 ---
-title: On Gatsby
+title: React + Static Site Gen = Gatsby
 date: 2017-07-07 08:56:00 -07:00
 layout: post
 ---
