@@ -10,7 +10,7 @@ collections:
     output: true
 permalink: "/blog/:title"
 name: few blocks
-url: http://fewblocks.ca
+url: http://jekyll.fewblocks.ca
 description: Intersections of art and technology
 google_verification: true
 google_verify: m0ZKYI4v5nRwtxec4YvMkyt8CjYQH7VmPxBraxoKXa8
